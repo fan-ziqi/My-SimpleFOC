@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "board.h": "c",
+        "digital_io.h": "c",
+        "pinnames.h": "c",
+        "pinmap.h": "c",
+        "stm32yyxx_ll_gpio.h": "c",
+        "pinnamesvar.h": "c"
+    }
+}
