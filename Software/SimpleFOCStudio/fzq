@@ -1,0 +1,51 @@
+{
+    "LPFAngle": 0.0,
+    "LPFCurrentD": 0.005,
+    "LPFCurrentQ": 0.005,
+    "LPFVelocity": 0.01,
+    "PIDAngle": {
+        "D": 0.4,
+        "I": 0.1,
+        "P": 20.0,
+        "outputLimit": 40.0,
+        "outputRamp": 0.0
+    },
+    "PIDCurrentD": {
+        "D": 0.0,
+        "I": 300.0,
+        "P": 3.0,
+        "outputLimit": 12.0,
+        "outputRamp": 0.0
+    },
+    "PIDCurrentQ": {
+        "D": 0.0,
+        "I": 300.0,
+        "P": 3.0,
+        "outputLimit": 12.0,
+        "outputRamp": 0.0
+    },
+    "PIDVelocity": {
+        "D": 0.0,
+        "I": 10.0,
+        "P": 0.09,
+        "outputLimit": 12.0,
+        "outputRamp": 1000.0
+    },
+    "connectionID": "M",
+    "controlType": 1,
+    "currentLimit": 1.0,
+    "devCommandID": "M",
+    "initialTarget": 0,
+    "motionDownsample": 0.0,
+    "phaseResistance": 0.0,
+    "sensorElectricalZero": 2.987,
+    "sensorZeroOffset": 4623.009,
+    "serialByteSize": 8,
+    "serialParity": "N",
+    "serialPortName": "COM7",
+    "serialRate": "115200",
+    "stopBits": 1,
+    "torqueType": 0,
+    "velocityLimit": 150.0,
+    "voltageLimit": 12.0
+}

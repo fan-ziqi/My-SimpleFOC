@@ -1,0 +1,57 @@
+{
+    "LPFAngle": 0.0,
+    "LPFCurrentD": 0.005,
+    "LPFCurrentQ": 0.005,
+    "LPFVelocity": 0.2,
+    "PIDAngle": {
+        "D": 0.0,
+        "I": 0.0,
+        "P": 20.0,
+        "outputLimit": 10.0,
+        "outputRamp": 0.0
+    },
+    "PIDCurrentD": {
+        "D": 0.0,
+        "I": 300.0,
+        "P": 3.0,
+        "outputLimit": 12.0,
+        "outputRamp": 0.0
+    },
+    "PIDCurrentQ": {
+        "D": 0.0,
+        "I": 300.0,
+        "P": 3.0,
+        "outputLimit": 12.0,
+        "outputRamp": 0.0
+    },
+    "PIDVelocity": {
+        "D": 0.0,
+        "I": 20.0,
+        "P": 0.2,
+        "outputLimit": 11.0,
+        "outputRamp": 1000.0
+    },
+    "connectionID": "",
+    "controlType": 2,
+    "currentLimit": 0.2,
+    "customCommands": [
+        {
+            "commandName": "Command1",
+            "commandValue": "D100"
+        }
+    ],
+    "devCommandID": "M",
+    "initialTarget": 0,
+    "motionDownsample": 0.0,
+    "phaseResistance": 0.0,
+    "sensorElectricalZero": 2.676,
+    "sensorZeroOffset": 0.0,
+    "serialByteSize": 8,
+    "serialParity": "N",
+    "serialPortName": "/dev/cu.usbserial-14140",
+    "serialRate": "115200",
+    "stopBits": 1,
+    "torqueType": 0,
+    "velocityLimit": 10.0,
+    "voltageLimit": 11.0
+}

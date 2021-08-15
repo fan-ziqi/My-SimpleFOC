@@ -5,6 +5,7 @@
         "pinnames.h": "c",
         "pinmap.h": "c",
         "stm32yyxx_ll_gpio.h": "c",
-        "pinnamesvar.h": "c"
+        "pinnamesvar.h": "c",
+        "*.tcc": "cpp"
     }
 }

@@ -1,60 +1,81 @@
-// Deng's FOC 开环速度控制例程 测试库：SimpleFOC 2.1.1 测试硬件：灯哥开源FOC V2.0
-// 串口中输入"T+数字"设定两个电机的转速，如设置电机以 10rad/s 转动，输入 "T10"，电机上电时默认会以 5rad/s 转动
-// 在使用自己的电机时，请一定记得修改默认极对数，即 BLDCMotor(14) 中的值，设置为自己的极对数数字
-// 程序默认设置的供电电压为 16.8V,用其他电压供电请记得修改 voltage_power_supply , voltage_limit 变量中的值
-
 #include <SimpleFOC.h>
 
+MagneticSensorI2C sensor = MagneticSensorI2C(AS5600_I2C);
+MagneticSensorI2C sensor1 = MagneticSensorI2C(AS5600_I2C);
+TwoWire I2Cone = TwoWire(PB7, PB6);
+TwoWire I2Ctwo = TwoWire(PB11, PB10);
+
+
 BLDCMotor motor = BLDCMotor(7);
-BLDCDriver3PWM driver = BLDCDriver3PWM(PB6, PB7, PB8, PB5);
+BLDCDriver3PWM driver = BLDCDriver3PWM(PA0, PA1, PA2, PA3);
 
-// BLDCMotor motor1 = BLDCMotor(7);
-// BLDCDriver3PWM driver1 = BLDCDriver3PWM(26, 27, 14, 12);
+BLDCMotor motor1 = BLDCMotor(7);
+BLDCDriver3PWM driver1 = BLDCDriver3PWM(PA6, PA7, PB0, PB1);
 
-//目标变量
-float target_velocity = 5;
-
-//串口指令设置
-Commander command = Commander(Serial);
-void doTarget(char* cmd) { command.scalar(&target_velocity, cmd); }
-
+//定义 TROT 步态变量
 void setup() {
+  I2Cone.begin();   //SDA1,SCL1
+  I2Ctwo.begin();
+  sensor.init(&I2Cone);
+  sensor1.init(&I2Ctwo);
+  //连接motor对象与传感器对象
+  motor.linkSensor(&sensor);
+  motor1.linkSensor(&sensor1);
 
-  driver.voltage_power_supply = 12.3;
+  //供电电压设置 [V]
+  driver.voltage_power_supply = 12;
   driver.init();
+
+  driver1.voltage_power_supply = 12;
+  driver1.init();
+  //连接电机和driver对象
   motor.linkDriver(&driver);
-  motor.voltage_limit = 12.3;   // [V]
-  motor.velocity_limit = 15; // [rad/s]
+  motor1.linkDriver(&driver1);
   
-  // driver1.voltage_power_supply = 12.3;
-  // driver1.init();
-  // motor1.linkDriver(&driver1);
-  // motor1.voltage_limit = 12.3;   // [V]
-  // motor1.velocity_limit = 15; // [rad/s]
+  // set motion control loop to be used
+  motor.controller = MotionControlType::torque;
+  motor1.controller = MotionControlType::velocity;
 
- 
-  //开环控制模式设置
-  motor.controller = MotionControlType::velocity_openloop;
-  // motor1.controller = MotionControlType::velocity_openloop;
+  // maximal voltage to be set to the motor
+  motor.voltage_limit = 12;
+  motor1.voltage_limit = 12;
 
-  //初始化硬件
-  motor.init();
-  // motor1.init();
+  motor1.PID_velocity.P = 0.1;
+  motor1.PID_velocity.I = 5;
+  motor1.PID_velocity.output_ramp = 1000.0;
 
+  motor1.LPF_velocity.Tf = 0.02;
 
-  //增加 T 指令
-  command.add('T', doTarget, "target velocity");
-
+  // use monitoring with serial 
   Serial.begin(115200);
-  Serial.println("Motor ready!");
-  Serial.println("Set target velocity [rad/s]");
+  // comment out if not needed
+  motor.useMonitoring(Serial);
+  motor1.useMonitoring(Serial);
+  //记录无刷初始位置
+
+  
+  //初始化电机
+  motor.init();
+  motor1.init();
+  motor.initFOC();
+  motor1.initFOC();
+
+
+  Serial.println("Motor ready.");
   _delay(1000);
+  
+}
+
+float dead_zone(float x){
+  return abs(x) < 0.2 ? 0 : x;
 }
 
 void loop() {
-  motor.move(target_velocity);
-  // motor1.move(target_velocity);
 
-  //用户通讯
-  command.run();
+  motor.loopFOC();
+  motor1.loopFOC();
+
+  motor.move(5*(motor1.shaft_velocity/10 - motor.shaft_angle));
+  motor1.move(10*dead_zone(motor.shaft_angle));
 }
+
