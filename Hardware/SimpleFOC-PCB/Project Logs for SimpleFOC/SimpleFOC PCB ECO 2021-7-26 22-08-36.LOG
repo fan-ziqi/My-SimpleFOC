@@ -1,0 +1,532 @@
+Added Component: Designator=AMS1117-3V3(SOT223_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "稳压芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，请立即申请退款，本店现金奖励5~20元"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家 免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=CHS_VCCINA(0603)
+Added Component: Designator=D1(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOT23-3N)
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOT23-3N)
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=E1(CE D(6.3*7.7))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=E2(CE G(12.5*13.5))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=E3(CE D(6.3*7.7))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=E4(CE D(6.3*7.7))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=INA_M1_O1(INA240A2PWR)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bandwidth"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/ina240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Linear ICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Instrumentation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC AMP CURRENT SENSE 8-TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "90uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage"; Value = "0.005mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "SOP65P300X120-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA240A2PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/ina240a2pwr-texas+instruments-75431049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PW0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Gain"; Value = "0.05V/mV"; VariantName = "[No Variations]"
+Added Component: Designator=INA_M1_O2(INA240A2PWR)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bandwidth"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/ina240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Linear ICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Instrumentation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC AMP CURRENT SENSE 8-TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "90uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage"; Value = "0.005mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "SOP65P300X120-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA240A2PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/ina240a2pwr-texas+instruments-75431049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PW0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Gain"; Value = "0.05V/mV"; VariantName = "[No Variations]"
+Added Component: Designator=INA_M2_O1(INA240A2PWR)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bandwidth"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/ina240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Linear ICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Instrumentation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC AMP CURRENT SENSE 8-TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "90uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage"; Value = "0.005mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "SOP65P300X120-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA240A2PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/ina240a2pwr-texas+instruments-75431049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PW0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Gain"; Value = "0.05V/mV"; VariantName = "[No Variations]"
+Added Component: Designator=INA_M2_O2(INA240A2PWR)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bandwidth"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/ina240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Linear ICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Instrumentation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC AMP CURRENT SENSE 8-TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "90uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage"; Value = "0.005mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "SOP65P300X120-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA240A2PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/ina240a2pwr-texas+instruments-75431049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PW0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Gain"; Value = "0.05V/mV"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CDRH74)
+Add component (AddParameter): Name = "BOM名称"; Value = "功率屏蔽电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=L6234_M1(SOIC127P1420X360-21N)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L6234PD013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Updates_to_database_2020-11-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=L6234_M2(SOIC127P1420X360-21N)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L6234PD013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Updates_to_database_2020-11-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=LED_3V3(LED0603_R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Added Component: Designator=LM2596S(TO263-5A)
+Add component (AddParameter): Name = "BOM名称"; Value = "DC降压芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，请立即申请退款，本店现金奖励5~20元"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家 免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR1(KF301-5.0-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费技术支持"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR2(KF301-5.0-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费技术支持"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=OUT(HDR2.54-LI-2x12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SS-12D10)
+Add component (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=VIN(KF301-5.0-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费技术支持"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AMS1117-3V3-1
+Added Pin To Net: NetName=VCC3V3 Pin=AMS1117-3V3-2
+Added Pin To Net: NetName=VCC5V Pin=AMS1117-3V3-3
+Added Pin To Net: NetName=VCC3V3 Pin=AMS1117-3V3-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC3V3 Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=VCCIN Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=VCCIN Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCCIN Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCCIN Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VCCINA240 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCCINA240 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCCINA240 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCCINA240 Pin=C16-2
+Added Pin To Net: NetName=VCCINA Pin=CHS_VCCINA-1
+Added Pin To Net: NetName=VCC5V Pin=CHS_VCCINA-2
+Added Pin To Net: NetName=VCC3V3 Pin=CHS_VCCINA-3
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=VCCIN Pin=D2-1
+Added Pin To Net: NetName=NetC5_1 Pin=D2-2
+Added Pin To Net: NetName=NetC7_2 Pin=D2-3
+Added Pin To Net: NetName=VCCIN Pin=D3-1
+Added Pin To Net: NetName=NetC6_1 Pin=D3-2
+Added Pin To Net: NetName=NetC8_2 Pin=D3-3
+Added Pin To Net: NetName=VCC5V Pin=E1-1
+Added Pin To Net: NetName=GND Pin=E1-2
+Added Pin To Net: NetName=VCCIN Pin=E2-1
+Added Pin To Net: NetName=GND Pin=E2-2
+Added Pin To Net: NetName=VCCIN Pin=E3-1
+Added Pin To Net: NetName=GND Pin=E3-2
+Added Pin To Net: NetName=VCCIN Pin=E4-1
+Added Pin To Net: NetName=GND Pin=E4-2
+Added Pin To Net: NetName=GND Pin=INA_M1_O1-1
+Added Pin To Net: NetName=M1_OUT1_P Pin=INA_M1_O1-2
+Added Pin To Net: NetName=M1_OUT1 Pin=INA_M1_O1-3
+Added Pin To Net: NetName=GND Pin=INA_M1_O1-4
+Added Pin To Net: NetName=VCCINA Pin=INA_M1_O1-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M1_O1-6
+Added Pin To Net: NetName=GND Pin=INA_M1_O1-7
+Added Pin To Net: NetName=M1_O1 Pin=INA_M1_O1-8
+Added Pin To Net: NetName=GND Pin=INA_M1_O2-1
+Added Pin To Net: NetName=M1_OUT2_P Pin=INA_M1_O2-2
+Added Pin To Net: NetName=M1_OUT2 Pin=INA_M1_O2-3
+Added Pin To Net: NetName=GND Pin=INA_M1_O2-4
+Added Pin To Net: NetName=VCCINA Pin=INA_M1_O2-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M1_O2-6
+Added Pin To Net: NetName=GND Pin=INA_M1_O2-7
+Added Pin To Net: NetName=M1_O2 Pin=INA_M1_O2-8
+Added Pin To Net: NetName=GND Pin=INA_M2_O1-1
+Added Pin To Net: NetName=M2_OUT1_P Pin=INA_M2_O1-2
+Added Pin To Net: NetName=M2_OUT1 Pin=INA_M2_O1-3
+Added Pin To Net: NetName=GND Pin=INA_M2_O1-4
+Added Pin To Net: NetName=VCCINA Pin=INA_M2_O1-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M2_O1-6
+Added Pin To Net: NetName=GND Pin=INA_M2_O1-7
+Added Pin To Net: NetName=M2_O1 Pin=INA_M2_O1-8
+Added Pin To Net: NetName=GND Pin=INA_M2_O2-1
+Added Pin To Net: NetName=M2_OUT2_P Pin=INA_M2_O2-2
+Added Pin To Net: NetName=M2_OUT2 Pin=INA_M2_O2-3
+Added Pin To Net: NetName=GND Pin=INA_M2_O2-4
+Added Pin To Net: NetName=VCCINA Pin=INA_M2_O2-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M2_O2-6
+Added Pin To Net: NetName=GND Pin=INA_M2_O2-7
+Added Pin To Net: NetName=M2_O2 Pin=INA_M2_O2-8
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=VCC5V Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L6234_M1-1
+Added Pin To Net: NetName=GND Pin=L6234_M1-2
+Added Pin To Net: NetName=M1_EN Pin=L6234_M1-3
+Added Pin To Net: NetName=M1_IN2 Pin=L6234_M1-4
+Added Pin To Net: NetName=M1_OUT2_P Pin=L6234_M1-5
+Added Pin To Net: NetName=M1_OUT1_P Pin=L6234_M1-6
+Added Pin To Net: NetName=M1_IN1 Pin=L6234_M1-7
+Added Pin To Net: NetName=M1_EN Pin=L6234_M1-8
+Added Pin To Net: NetName=VCCIN Pin=L6234_M1-9
+Added Pin To Net: NetName=GND Pin=L6234_M1-10
+Added Pin To Net: NetName=GND Pin=L6234_M1-11
+Added Pin To Net: NetName=VCCIN Pin=L6234_M1-12
+Added Pin To Net: NetName=M1_EN Pin=L6234_M1-13
+Added Pin To Net: NetName=M1_IN3 Pin=L6234_M1-14
+Added Pin To Net: NetName=M1_OUT3 Pin=L6234_M1-15
+Added Pin To Net: NetName=NetC9_2 Pin=L6234_M1-16
+Added Pin To Net: NetName=NetC7_1 Pin=L6234_M1-17
+Added Pin To Net: NetName=NetC5_1 Pin=L6234_M1-18
+Added Pin To Net: NetName=GND Pin=L6234_M1-19
+Added Pin To Net: NetName=GND Pin=L6234_M1-20
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-1
+Added Pin To Net: NetName=GND Pin=L6234_M2-2
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-3
+Added Pin To Net: NetName=M2_IN2 Pin=L6234_M2-4
+Added Pin To Net: NetName=M2_OUT2_P Pin=L6234_M2-5
+Added Pin To Net: NetName=M2_OUT1_P Pin=L6234_M2-6
+Added Pin To Net: NetName=M2_IN1 Pin=L6234_M2-7
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-8
+Added Pin To Net: NetName=VCCIN Pin=L6234_M2-9
+Added Pin To Net: NetName=GND Pin=L6234_M2-10
+Added Pin To Net: NetName=GND Pin=L6234_M2-11
+Added Pin To Net: NetName=VCCIN Pin=L6234_M2-12
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-13
+Added Pin To Net: NetName=M2_IN3 Pin=L6234_M2-14
+Added Pin To Net: NetName=M2_OUT3 Pin=L6234_M2-15
+Added Pin To Net: NetName=NetC10_2 Pin=L6234_M2-16
+Added Pin To Net: NetName=NetC8_1 Pin=L6234_M2-17
+Added Pin To Net: NetName=NetC6_1 Pin=L6234_M2-18
+Added Pin To Net: NetName=GND Pin=L6234_M2-19
+Added Pin To Net: NetName=GND Pin=L6234_M2-20
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=NetLED_3V3_1 Pin=LED_3V3-1
+Added Pin To Net: NetName=GND Pin=LED_3V3-2
+Added Pin To Net: NetName=VCCIN Pin=LM2596S-1
+Added Pin To Net: NetName=NetD1_2 Pin=LM2596S-2
+Added Pin To Net: NetName=GND Pin=LM2596S-3
+Added Pin To Net: NetName=VCC5V Pin=LM2596S-4
+Added Pin To Net: NetName=GND Pin=LM2596S-5
+Added Pin To Net: NetName=GND Pin=LM2596S-6
+Added Pin To Net: NetName=M1_OUT3 Pin=MOTOR1-1
+Added Pin To Net: NetName=M1_OUT2 Pin=MOTOR1-2
+Added Pin To Net: NetName=M1_OUT1 Pin=MOTOR1-3
+Added Pin To Net: NetName=M2_OUT3 Pin=MOTOR2-1
+Added Pin To Net: NetName=M2_OUT2 Pin=MOTOR2-2
+Added Pin To Net: NetName=M2_OUT1 Pin=MOTOR2-3
+Added Pin To Net: NetName=M1_IN1 Pin=OUT-1
+Added Pin To Net: NetName=M2_IN1 Pin=OUT-2
+Added Pin To Net: NetName=M1_IN2 Pin=OUT-3
+Added Pin To Net: NetName=M2_IN2 Pin=OUT-4
+Added Pin To Net: NetName=M1_IN3 Pin=OUT-5
+Added Pin To Net: NetName=M2_IN3 Pin=OUT-6
+Added Pin To Net: NetName=M1_EN Pin=OUT-7
+Added Pin To Net: NetName=M2_EN Pin=OUT-8
+Added Pin To Net: NetName=M1_O1 Pin=OUT-9
+Added Pin To Net: NetName=M2_O1 Pin=OUT-10
+Added Pin To Net: NetName=M1_O2 Pin=OUT-11
+Added Pin To Net: NetName=M2_O2 Pin=OUT-12
+Added Pin To Net: NetName=VCC3V3 Pin=OUT-13
+Added Pin To Net: NetName=GND Pin=OUT-14
+Added Pin To Net: NetName=VCC3V3 Pin=OUT-15
+Added Pin To Net: NetName=GND Pin=OUT-16
+Added Pin To Net: NetName=VCC3V3 Pin=OUT-17
+Added Pin To Net: NetName=GND Pin=OUT-18
+Added Pin To Net: NetName=VCC5V Pin=OUT-19
+Added Pin To Net: NetName=GND Pin=OUT-20
+Added Pin To Net: NetName=VCC5V Pin=OUT-21
+Added Pin To Net: NetName=GND Pin=OUT-22
+Added Pin To Net: NetName=VCC5V Pin=OUT-23
+Added Pin To Net: NetName=GND Pin=OUT-24
+Added Pin To Net: NetName=VCC3V3 Pin=R1-1
+Added Pin To Net: NetName=NetLED_3V3_1 Pin=R1-2
+Added Pin To Net: NetName=M1_EN Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=M2_EN Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=M1_OUT1_P Pin=R4-1
+Added Pin To Net: NetName=M1_OUT1 Pin=R4-2
+Added Pin To Net: NetName=M1_OUT2_P Pin=R5-1
+Added Pin To Net: NetName=M1_OUT2 Pin=R5-2
+Added Pin To Net: NetName=M2_OUT1_P Pin=R6-1
+Added Pin To Net: NetName=M2_OUT1 Pin=R6-2
+Added Pin To Net: NetName=M2_OUT2_P Pin=R7-1
+Added Pin To Net: NetName=M2_OUT2 Pin=R7-2
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=VCCIN Pin=S1-3
+Added Pin To Net: NetName=GND Pin=VIN-1
+Added Pin To Net: NetName=NetS1_2 Pin=VIN-2
+Added Member To Class: ClassName=SimpleFOC Member=Component AMS1117-3V3
+Added Member To Class: ClassName=SimpleFOC Member=Component C1 22uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C2 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C3 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C4 22uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C5 220nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C6 220nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C7 10nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C8 10nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C9 1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C10 1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C11 100nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C12 100nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C13 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C14 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C15 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C16 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component CHS_VCCINA 跳线
+Added Member To Class: ClassName=SimpleFOC Member=Component D1 SS54
+Added Member To Class: ClassName=SimpleFOC Member=Component D2 BAT54C
+Added Member To Class: ClassName=SimpleFOC Member=Component D3 BAT54C
+Added Member To Class: ClassName=SimpleFOC Member=Component E1 220uf/16V
+Added Member To Class: ClassName=SimpleFOC Member=Component E2 680uf/35V
+Added Member To Class: ClassName=SimpleFOC Member=Component E3 100uf/35V
+Added Member To Class: ClassName=SimpleFOC Member=Component E4 100uf/35V
+Added Member To Class: ClassName=SimpleFOC Member=Component INA_M1_O1 INA240A2PWR
+Added Member To Class: ClassName=SimpleFOC Member=Component INA_M1_O2 INA240A2PWR
+Added Member To Class: ClassName=SimpleFOC Member=Component INA_M2_O1 INA240A2PWR
+Added Member To Class: ClassName=SimpleFOC Member=Component INA_M2_O2 INA240A2PWR
+Added Member To Class: ClassName=SimpleFOC Member=Component L1 33uH
+Added Member To Class: ClassName=SimpleFOC Member=Component L6234_M1 L6234PD013TR
+Added Member To Class: ClassName=SimpleFOC Member=Component L6234_M2 L6234PD013TR
+Added Member To Class: ClassName=SimpleFOC Member=Component LED_3V3 红色
+Added Member To Class: ClassName=SimpleFOC Member=Component LM2596S
+Added Member To Class: ClassName=SimpleFOC Member=Component MOTOR1 HDR-1X3
+Added Member To Class: ClassName=SimpleFOC Member=Component MOTOR2 HDR-1X3
+Added Member To Class: ClassName=SimpleFOC Member=Component OUT Header 2X11
+Added Member To Class: ClassName=SimpleFOC Member=Component R1 1K
+Added Member To Class: ClassName=SimpleFOC Member=Component R2 4.7K
+Added Member To Class: ClassName=SimpleFOC Member=Component R3 4.7K
+Added Member To Class: ClassName=SimpleFOC Member=Component R4 0.01R
+Added Member To Class: ClassName=SimpleFOC Member=Component R5 0.01R
+Added Member To Class: ClassName=SimpleFOC Member=Component R6 0.01R
+Added Member To Class: ClassName=SimpleFOC Member=Component R7 0.01R
+Added Member To Class: ClassName=SimpleFOC Member=Component S1 SS-12F23
+Added Member To Class: ClassName=SimpleFOC Member=Component VIN HDR-1X2

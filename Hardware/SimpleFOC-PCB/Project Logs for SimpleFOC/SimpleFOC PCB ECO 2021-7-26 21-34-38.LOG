@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCCINA240 Pin=INA_M1_O1-5
+Removed Pin From Net: NetName=VCCINA240 Pin=INA_M1_O2-5
+Removed Pin From Net: NetName=VCCINA240 Pin=INA_M2_O1-5
+Removed Pin From Net: NetName=VCCINA240 Pin=INA_M2_O2-5
+Added Pin To Net: NetName=VCCINA Pin=INA_M1_O1-5
+Added Pin To Net: NetName=VCCINA Pin=INA_M1_O2-5
+Added Pin To Net: NetName=VCCINA Pin=INA_M2_O1-5
+Added Pin To Net: NetName=VCCINA Pin=INA_M2_O2-5

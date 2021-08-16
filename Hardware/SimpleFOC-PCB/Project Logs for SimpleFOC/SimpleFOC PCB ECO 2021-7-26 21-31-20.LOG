@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=INA_M1_O2 Old Footprint=INA240A2PWR New Footprint=INA240A2PWR
+Change Component Footprint: Designator=INA_M2_O1 Old Footprint=INA240A2PWR New Footprint=INA240A2PWR
+Change Component Footprint: Designator=INA_M2_O2 Old Footprint=INA240A2PWR New Footprint=INA240A2PWR
+Added Member To Class: ClassName=SimpleFOC Member=Component C1 22uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component E1 220uf/16V
+Added Member To Class: ClassName=SimpleFOC Member=Component R4.7*4 4.7K

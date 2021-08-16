@@ -1,0 +1,43 @@
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=VCCIN Pin=C6-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCCIN Pin=C12-2
+Added Pin To Net: NetName=VCCIN Pin=D3-1
+Added Pin To Net: NetName=NetC6_1 Pin=D3-2
+Added Pin To Net: NetName=NetC8_2 Pin=D3-3
+Added Pin To Net: NetName=VCCIN Pin=E4-1
+Added Pin To Net: NetName=GND Pin=E4-2
+Added Pin To Net: NetName=GND Pin=L6234_M2-1
+Added Pin To Net: NetName=GND Pin=L6234_M2-2
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-3
+Added Pin To Net: NetName=M2_IN2 Pin=L6234_M2-4
+Added Pin To Net: NetName=M2_OUT2_P Pin=L6234_M2-5
+Added Pin To Net: NetName=M2_OUT1_P Pin=L6234_M2-6
+Added Pin To Net: NetName=M2_IN1 Pin=L6234_M2-7
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-8
+Added Pin To Net: NetName=VCCIN Pin=L6234_M2-9
+Added Pin To Net: NetName=GND Pin=L6234_M2-10
+Added Pin To Net: NetName=GND Pin=L6234_M2-11
+Added Pin To Net: NetName=VCCIN Pin=L6234_M2-12
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-13
+Added Pin To Net: NetName=M2_IN3 Pin=L6234_M2-14
+Added Pin To Net: NetName=M2_OUT3 Pin=L6234_M2-15
+Added Pin To Net: NetName=NetC10_2 Pin=L6234_M2-16
+Added Pin To Net: NetName=NetC8_1 Pin=L6234_M2-17
+Added Pin To Net: NetName=NetC6_1 Pin=L6234_M2-18
+Added Pin To Net: NetName=GND Pin=L6234_M2-19
+Added Pin To Net: NetName=GND Pin=L6234_M2-20
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Member To Class: ClassName=SimpleFOC Member=Component C6 220nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C8 10nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C10 1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C12 100nf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component D3 BAT54C
+Added Member To Class: ClassName=SimpleFOC Member=Component E4 100uf/35V
+Added Member To Class: ClassName=SimpleFOC Member=Component L6234_M2 L6234PD013TR

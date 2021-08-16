@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SimpleFOC-OUTPUT.PcbDoc   2021/8/6  22:45:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SimpleFOC-OUTPUT.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             272       PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             24        PTH        0.00inch (0.00mm)
+T3      47mil (1.2mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T4      67mil (1.7mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              311
+
+Total Processing Time (hh:mm:ss) : 00:00:00

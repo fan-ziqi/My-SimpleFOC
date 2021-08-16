@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R4 Old Footprint=R0603_L New Footprint=R0805_L
+Change Component Footprint: Designator=R5 Old Footprint=R0603_L New Footprint=R0805_L
+Change Component Footprint: Designator=R6 Old Footprint=R0603_L New Footprint=R0805_L
+Change Component Footprint: Designator=R7 Old Footprint=R0603_L New Footprint=R0805_L
+Added Member To Class: ClassName=SimpleFOC Member=Component L6234_M1 L6234PD013TR

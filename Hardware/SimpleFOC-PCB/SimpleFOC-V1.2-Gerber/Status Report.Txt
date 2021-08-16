@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SimpleFOC.PrjPcb]
+   Generated File[SimpleFOC.TXT]
+   Generated File[SimpleFOC.LDP]
+   Generated File[SimpleFOC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:52:36 On 2021/8/4

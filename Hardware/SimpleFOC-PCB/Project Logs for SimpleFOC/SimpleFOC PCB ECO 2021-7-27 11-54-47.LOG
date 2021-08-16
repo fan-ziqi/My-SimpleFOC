@@ -1,0 +1,30 @@
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCCINA240 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCCINA240 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=INA_M2_O1-1
+Added Pin To Net: NetName=M2_OUT1_P Pin=INA_M2_O1-2
+Added Pin To Net: NetName=M2_OUT1 Pin=INA_M2_O1-3
+Added Pin To Net: NetName=GND Pin=INA_M2_O1-4
+Added Pin To Net: NetName=VCCINA Pin=INA_M2_O1-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M2_O1-6
+Added Pin To Net: NetName=GND Pin=INA_M2_O1-7
+Added Pin To Net: NetName=M2_O1 Pin=INA_M2_O1-8
+Added Pin To Net: NetName=GND Pin=INA_M2_O2-1
+Added Pin To Net: NetName=M2_OUT2_P Pin=INA_M2_O2-2
+Added Pin To Net: NetName=M2_OUT2 Pin=INA_M2_O2-3
+Added Pin To Net: NetName=GND Pin=INA_M2_O2-4
+Added Pin To Net: NetName=VCCINA Pin=INA_M2_O2-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M2_O2-6
+Added Pin To Net: NetName=GND Pin=INA_M2_O2-7
+Added Pin To Net: NetName=M2_O2 Pin=INA_M2_O2-8
+Added Pin To Net: NetName=M2_OUT1_P Pin=R6-1
+Added Pin To Net: NetName=M2_OUT1 Pin=R6-2
+Added Pin To Net: NetName=M2_OUT2_P Pin=R7-1
+Added Pin To Net: NetName=M2_OUT2 Pin=R7-2
+Added Member To Class: ClassName=SimpleFOC Member=Component C15 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component C16 0.1uf/50V
+Added Member To Class: ClassName=SimpleFOC Member=Component INA_M2_O1 INA240A2PWR
+Added Member To Class: ClassName=SimpleFOC Member=Component INA_M2_O2 INA240A2PWR
+Added Member To Class: ClassName=SimpleFOC Member=Component R6 0.01R
+Added Member To Class: ClassName=SimpleFOC Member=Component R7 0.01R

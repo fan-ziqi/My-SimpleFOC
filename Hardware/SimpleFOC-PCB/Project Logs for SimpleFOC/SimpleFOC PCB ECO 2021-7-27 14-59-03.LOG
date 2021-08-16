@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VCCINA240 Pin=CHS_VCCINA-1
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M1_O1-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M1_O2-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M2_O1-5
+Added Pin To Net: NetName=VCCINA240 Pin=INA_M2_O2-5
+Change Net Name : Old Net Name=VCCINA240 New Net Name=VCCINA

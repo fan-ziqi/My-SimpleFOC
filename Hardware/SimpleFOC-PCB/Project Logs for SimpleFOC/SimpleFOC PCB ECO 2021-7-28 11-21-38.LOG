@@ -1,0 +1,62 @@
+Added Component: Designator=L6234_M1(SOIC127P1420X360-21N)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L6234PD013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Updates_to_database_2020-11-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=L6234_M2(SOIC127P1420X360-21N)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L6234PD013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Updates_to_database_2020-11-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=L6234_M1-1
+Added Pin To Net: NetName=GND Pin=L6234_M1-2
+Added Pin To Net: NetName=M1_EN Pin=L6234_M1-3
+Added Pin To Net: NetName=M1_IN2 Pin=L6234_M1-4
+Added Pin To Net: NetName=M1_OUT2_P Pin=L6234_M1-5
+Added Pin To Net: NetName=M1_OUT1_P Pin=L6234_M1-6
+Added Pin To Net: NetName=M1_IN1 Pin=L6234_M1-7
+Added Pin To Net: NetName=M1_EN Pin=L6234_M1-8
+Added Pin To Net: NetName=VCCIN Pin=L6234_M1-9
+Added Pin To Net: NetName=GND Pin=L6234_M1-10
+Added Pin To Net: NetName=GND Pin=L6234_M1-11
+Added Pin To Net: NetName=VCCIN Pin=L6234_M1-12
+Added Pin To Net: NetName=M1_EN Pin=L6234_M1-13
+Added Pin To Net: NetName=M1_IN3 Pin=L6234_M1-14
+Added Pin To Net: NetName=M1_OUT3 Pin=L6234_M1-15
+Added Pin To Net: NetName=NetC9_2 Pin=L6234_M1-16
+Added Pin To Net: NetName=NetC7_1 Pin=L6234_M1-17
+Added Pin To Net: NetName=NetC5_1 Pin=L6234_M1-18
+Added Pin To Net: NetName=GND Pin=L6234_M1-19
+Added Pin To Net: NetName=GND Pin=L6234_M1-20
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-1
+Added Pin To Net: NetName=GND Pin=L6234_M2-2
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-3
+Added Pin To Net: NetName=M2_IN2 Pin=L6234_M2-4
+Added Pin To Net: NetName=M2_OUT2_P Pin=L6234_M2-5
+Added Pin To Net: NetName=M2_OUT1_P Pin=L6234_M2-6
+Added Pin To Net: NetName=M2_IN1 Pin=L6234_M2-7
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-8
+Added Pin To Net: NetName=VCCIN Pin=L6234_M2-9
+Added Pin To Net: NetName=GND Pin=L6234_M2-10
+Added Pin To Net: NetName=GND Pin=L6234_M2-11
+Added Pin To Net: NetName=VCCIN Pin=L6234_M2-12
+Added Pin To Net: NetName=M2_EN Pin=L6234_M2-13
+Added Pin To Net: NetName=M2_IN3 Pin=L6234_M2-14
+Added Pin To Net: NetName=M2_OUT3 Pin=L6234_M2-15
+Added Pin To Net: NetName=NetC10_2 Pin=L6234_M2-16
+Added Pin To Net: NetName=NetC8_1 Pin=L6234_M2-17
+Added Pin To Net: NetName=NetC6_1 Pin=L6234_M2-18
+Added Pin To Net: NetName=GND Pin=L6234_M2-19
+Added Pin To Net: NetName=GND Pin=L6234_M2-20
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21

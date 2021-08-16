@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=L6234_M1 Old Footprint=PowerSO-20_STM New Footprint=SOIC127P1420X360-21N
+Change Component Footprint: Designator=L6234_M2 Old Footprint=PowerSO-20_STM New Footprint=SOIC127P1420X360-21N
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M1-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21
+Added Pin To Net: NetName=GND Pin=L6234_M2-21

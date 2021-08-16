@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=M1_IN3 Pin=L6234_M1-14
+Added Pin To Net: NetName=M1_OUT3 Pin=L6234_M1-15
+Added Pin To Net: NetName=M2_IN3 Pin=L6234_M2-14
+Added Pin To Net: NetName=M2_OUT3 Pin=L6234_M2-15
